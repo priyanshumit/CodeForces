@@ -32,4 +32,5 @@ For now, It contains all the problems I have solved at
 <tr><td>5</td><td><a href=https://codeforces.com/contest/50/problem/A>Domino piling</a></td><td>A</td><td>800</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/50/submission/89635749>GNU C++14</a></td><td>12 August 2020 14:18:40</td></tr>
 <tr><td>6</td><td><a href=https://codeforces.com/contest/282/problem/A>Bit++</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/282/submission/89636802>GNU C++14</a></td><td>12 August 2020 14:34:14</td></tr>
 <tr><td>7</td><td><a href=https://codeforces.com/contest/112/problem/A>Petya and Strings</a></td><td>A</td><td>800</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/112/submission/89637379>GNU C++14</a></td><td>12 August 2020 14:43:31</td></tr>
+<tr><td>8</td><td><a href=https://codeforces.com/contest/263/problem/A>Beautiful Matrix</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/263/submission/89638559>GNU C++14</a></td><td>12 August 2020 15:01:26</td></tr>
 </table>

@@ -29,4 +29,5 @@ For now, It contains all the problems I have solved at
 <tr><td>2</td><td><a href=https://codeforces.com/contest/71/problem/A>Way Too Long Words</a></td><td>A</td><td>800</td><td>strings</td><td><a href=https://codeforces.com/contest/71/submission/89633453>GNU C++14</a></td><td>12 August 2020 13:43:28</td></tr>
 <tr><td>3</td><td><a href=https://codeforces.com/contest/231/problem/A>Team</a></td><td>A</td><td>800</td><td>brute force, greedy</td><td><a href=https://codeforces.com/contest/231/submission/89633753>GNU C++14</a></td><td>12 August 2020 13:47:51</td></tr>
 <tr><td>4</td><td><a href=https://codeforces.com/contest/158/problem/A>Next Round</a></td><td>A</td><td>800</td><td>*special, implementation</td><td><a href=https://codeforces.com/contest/158/submission/89635132>GNU C++14</a></td><td>12 August 2020 14:09:15</td></tr>
+<tr><td>5</td><td><a href=https://codeforces.com/contest/50/problem/A>Domino piling</a></td><td>A</td><td>800</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/50/submission/89635749>GNU C++14</a></td><td>12 August 2020 14:18:40</td></tr>
 </table>

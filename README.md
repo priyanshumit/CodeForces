@@ -26,4 +26,5 @@ For now, It contains all the problems I have solved at
 <table align="center" border = "0px" cellpadding ="2px" cellspacing ="2px" >
 <tr><th>#</th><th>Probelm</th><th>Catagory</th><th>Rating</th><th>Tags</th><th>Solution</th><th>Submission Time</th></tr>
 <tr><td>1</td><td><a href=https://codeforces.com/contest/4/problem/A>Watermelon</a></td><td>A</td><td>800</td><td>brute force, math</td><td><a href=https://codeforces.com/contest/4/submission/89632387>GNU C++14</a></td><td>12 August 2020 13:25:35</td></tr>
+<tr><td>2</td><td><a href=https://codeforces.com/contest/71/problem/A>Way Too Long Words</a></td><td>A</td><td>800</td><td>strings</td><td><a href=https://codeforces.com/contest/71/submission/89633453>GNU C++14</a></td><td>12 August 2020 13:43:28</td></tr>
 </table>

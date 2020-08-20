@@ -49,4 +49,5 @@ For now, It contains all the problems I have solved at
 <tr><td>22</td><td><a href=https://codeforces.com/contest/467/problem/A>George and Accommodation</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/467/submission/89743201>GNU C++14</a></td><td>13 August 2020 02:01:42</td></tr>
 <tr><td>23</td><td><a href=https://codeforces.com/contest/731/problem/A>Night at the Museum</a></td><td>A</td><td>800</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/731/submission/90485343>GNU C++14</a></td><td>20 August 2020 22:56:13</td></tr>
 <tr><td>24</td><td><a href=https://codeforces.com/contest/822/problem/A>I'm bored with life</a></td><td>A</td><td>800</td><td>implementation, math, number theory</td><td><a href=https://codeforces.com/contest/822/submission/90485821>GNU C++14</a></td><td>20 August 2020 23:03:20</td></tr>
+<tr><td>25</td><td><a href=https://codeforces.com/contest/912/problem/A>Tricky Alchemy</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/912/submission/90487046>GNU C++14</a></td><td>20 August 2020 23:22:27</td></tr>
 </table>

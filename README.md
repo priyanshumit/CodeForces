@@ -52,4 +52,5 @@ For now, It contains all the problems I have solved at
 <tr><td>25</td><td><a href=https://codeforces.com/contest/912/problem/A>Tricky Alchemy</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/912/submission/90487046>GNU C++14</a></td><td>20 August 2020 23:22:27</td></tr>
 <tr><td>26</td><td><a href=https://codeforces.com/contest/703/problem/A>Mishka and Game</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/703/submission/90487715>GNU C++14</a></td><td>20 August 2020 23:32:46</td></tr>
 <tr><td>27</td><td><a href=https://codeforces.com/contest/1030/problem/A>In Search of an Easy Problem</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1030/submission/90487947>GNU C++14</a></td><td>20 August 2020 23:36:36</td></tr>
+<tr><td>28</td><td><a href=https://codeforces.com/contest/12/problem/A>Super Agent</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/12/submission/90488233>GNU C++14</a></td><td>20 August 2020 23:41:33</td></tr>
 </table>

@@ -57,4 +57,5 @@ For now, It contains all the problems I have solved at
 <tr><td>30</td><td><a href=https://codeforces.com/contest/1097/problem/A>Gennady and a Card Game</a></td><td>A</td><td>800</td><td>brute force, implementation</td><td><a href=https://codeforces.com/contest/1097/submission/90489415>GNU C++14</a></td><td>21 August 2020 00:02:57</td></tr>
 <tr><td>31</td><td><a href=https://codeforces.com/contest/785/problem/A>Anton and Polyhedrons</a></td><td>A</td><td>800</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/785/submission/90490020>GNU C++14</a></td><td>21 August 2020 00:13:56</td></tr>
 <tr><td>32</td><td><a href=https://codeforces.com/contest/1284/problem/A>New Year and Naming</a></td><td>A</td><td>800</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/1284/submission/90491618>GNU C++14</a></td><td>21 August 2020 00:44:57</td></tr>
+<tr><td>33</td><td><a href=https://codeforces.com/contest/1146/problem/A>Love "A"</a></td><td>A</td><td>800</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/1146/submission/90492276>GNU C++14</a></td><td>21 August 2020 00:59:36</td></tr>
 </table>

@@ -55,4 +55,5 @@ For now, It contains all the problems I have solved at
 <tr><td>28</td><td><a href=https://codeforces.com/contest/12/problem/A>Super Agent</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/12/submission/90488233>GNU C++14</a></td><td>20 August 2020 23:41:33</td></tr>
 <tr><td>29</td><td><a href=https://codeforces.com/contest/1003/problem/A>Polycarp's Pockets</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1003/submission/90489061>GNU C++14</a></td><td>20 August 2020 23:56:46</td></tr>
 <tr><td>30</td><td><a href=https://codeforces.com/contest/1097/problem/A>Gennady and a Card Game</a></td><td>A</td><td>800</td><td>brute force, implementation</td><td><a href=https://codeforces.com/contest/1097/submission/90489415>GNU C++14</a></td><td>21 August 2020 00:02:57</td></tr>
+<tr><td>31</td><td><a href=https://codeforces.com/contest/785/problem/A>Anton and Polyhedrons</a></td><td>A</td><td>800</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/785/submission/90490020>GNU C++14</a></td><td>21 August 2020 00:13:56</td></tr>
 </table>

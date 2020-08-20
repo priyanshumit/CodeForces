@@ -47,4 +47,5 @@ For now, It contains all the problems I have solved at
 <tr><td>20</td><td><a href=https://codeforces.com/contest/734/problem/A>Anton and Danik</a></td><td>A</td><td>800</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/734/submission/89742768>GNU C++14</a></td><td>13 August 2020 01:52:38</td></tr>
 <tr><td>21</td><td><a href=https://codeforces.com/contest/617/problem/A>Elephant</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/617/submission/89742968>GNU C++14</a></td><td>13 August 2020 01:56:50</td></tr>
 <tr><td>22</td><td><a href=https://codeforces.com/contest/467/problem/A>George and Accommodation</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/467/submission/89743201>GNU C++14</a></td><td>13 August 2020 02:01:42</td></tr>
+<tr><td>23</td><td><a href=https://codeforces.com/contest/731/problem/A>Night at the Museum</a></td><td>A</td><td>800</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/731/submission/90485343>GNU C++14</a></td><td>20 August 2020 22:56:13</td></tr>
 </table>

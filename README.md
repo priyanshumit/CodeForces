@@ -65,4 +65,5 @@ For now, It contains all the problems I have solved at
 <tr><td>38</td><td><a href=https://codeforces.com/contest/1352/problem/A>Sum of Round Numbers</a></td><td>A</td><td>800</td><td>implementation, math</td><td><a href=https://codeforces.com/contest/1352/submission/90503711>GNU C++14</a></td><td>21 August 2020 08:57:48</td></tr>
 <tr><td>39</td><td><a href=https://codeforces.com/contest/1316/problem/A>Grade Allocation</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1316/submission/90504144>GNU C++14</a></td><td>21 August 2020 09:18:20</td></tr>
 <tr><td>40</td><td><a href=https://codeforces.com/contest/1337/problem/A>Ichihime and Triangle</a></td><td>A</td><td>800</td><td>constructive algorithms, math</td><td><a href=https://codeforces.com/contest/1337/submission/90504521>GNU C++14</a></td><td>21 August 2020 09:37:58</td></tr>
+<tr><td>41</td><td><a href=https://codeforces.com/contest/672/problem/A>Summer Camp</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/672/submission/90505331>GNU C++14</a></td><td>21 August 2020 10:17:00</td></tr>
 </table>

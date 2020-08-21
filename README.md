@@ -72,4 +72,5 @@ For now, It contains all the problems I have solved at
 <tr><td>45</td><td><a href=https://codeforces.com/contest/835/problem/A>Key races</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/835/submission/90522831>GNU C++14</a></td><td>21 August 2020 15:52:49</td></tr>
 <tr><td>46</td><td><a href=https://codeforces.com/contest/1311/problem/A>Add Odd or Subtract Even</a></td><td>A</td><td>800</td><td>greedy, implementation, math</td><td><a href=https://codeforces.com/contest/1311/submission/90523188>GNU C++14</a></td><td>21 August 2020 15:58:44</td></tr>
 <tr><td>47</td><td><a href=https://codeforces.com/contest/996/problem/A>Hit the Lottery</a></td><td>A</td><td>800</td><td>dp, greedy</td><td><a href=https://codeforces.com/contest/996/submission/90523469>GNU C++14</a></td><td>21 August 2020 16:02:57</td></tr>
+<tr><td>48</td><td><a href=https://codeforces.com/contest/1351/problem/B>Square?</a></td><td>B</td><td>900</td><td>brute force, implementation, math</td><td><a href=https://codeforces.com/contest/1351/submission/90525468>GNU C++14</a></td><td>21 August 2020 16:34:31</td></tr>
 </table>

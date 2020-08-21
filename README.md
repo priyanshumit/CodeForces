@@ -67,4 +67,5 @@ For now, It contains all the problems I have solved at
 <tr><td>40</td><td><a href=https://codeforces.com/contest/1337/problem/A>Ichihime and Triangle</a></td><td>A</td><td>800</td><td>constructive algorithms, math</td><td><a href=https://codeforces.com/contest/1337/submission/90504521>GNU C++14</a></td><td>21 August 2020 09:37:58</td></tr>
 <tr><td>41</td><td><a href=https://codeforces.com/contest/672/problem/A>Summer Camp</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/672/submission/90505331>GNU C++14</a></td><td>21 August 2020 10:17:00</td></tr>
 <tr><td>42</td><td><a href=https://codeforces.com/contest/1061/problem/A>Coins</a></td><td>A</td><td>800</td><td>greedy, implementation, math</td><td><a href=https://codeforces.com/contest/1061/submission/90521601>GNU C++14</a></td><td>21 August 2020 15:33:40</td></tr>
+<tr><td>43</td><td><a href=https://codeforces.com/contest/1167/problem/A>Telephone Number</a></td><td>A</td><td>800</td><td>brute force, greedy, strings</td><td><a href=https://codeforces.com/contest/1167/submission/90521849>GNU C++14</a></td><td>21 August 2020 15:37:24</td></tr>
 </table>

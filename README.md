@@ -69,4 +69,5 @@ For now, It contains all the problems I have solved at
 <tr><td>42</td><td><a href=https://codeforces.com/contest/1061/problem/A>Coins</a></td><td>A</td><td>800</td><td>greedy, implementation, math</td><td><a href=https://codeforces.com/contest/1061/submission/90521601>GNU C++14</a></td><td>21 August 2020 15:33:40</td></tr>
 <tr><td>43</td><td><a href=https://codeforces.com/contest/1167/problem/A>Telephone Number</a></td><td>A</td><td>800</td><td>brute force, greedy, strings</td><td><a href=https://codeforces.com/contest/1167/submission/90521849>GNU C++14</a></td><td>21 August 2020 15:37:24</td></tr>
 <tr><td>44</td><td><a href=https://codeforces.com/contest/1152/problem/A>Neko Finds Grapes</a></td><td>A</td><td>800</td><td>greedy, implementation, math</td><td><a href=https://codeforces.com/contest/1152/submission/90522415>GNU C++14</a></td><td>21 August 2020 15:46:06</td></tr>
+<tr><td>45</td><td><a href=https://codeforces.com/contest/835/problem/A>Key races</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/835/submission/90522831>GNU C++14</a></td><td>21 August 2020 15:52:49</td></tr>
 </table>

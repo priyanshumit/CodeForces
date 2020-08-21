@@ -63,4 +63,5 @@ For now, It contains all the problems I have solved at
 <tr><td>36</td><td><a href=https://codeforces.com/contest/716/problem/A>Crazy Computer</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/716/submission/90494447>GNU C++14</a></td><td>21 August 2020 01:48:46</td></tr>
 <tr><td>37</td><td><a href=https://codeforces.com/contest/918/problem/A>Eleven</a></td><td>A</td><td>800</td><td>brute force, implementation</td><td><a href=https://codeforces.com/contest/918/submission/90495121>GNU C++14</a></td><td>21 August 2020 02:07:09</td></tr>
 <tr><td>38</td><td><a href=https://codeforces.com/contest/1352/problem/A>Sum of Round Numbers</a></td><td>A</td><td>800</td><td>implementation, math</td><td><a href=https://codeforces.com/contest/1352/submission/90503711>GNU C++14</a></td><td>21 August 2020 08:57:48</td></tr>
+<tr><td>39</td><td><a href=https://codeforces.com/contest/1316/problem/A>Grade Allocation</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1316/submission/90504144>GNU C++14</a></td><td>21 August 2020 09:18:20</td></tr>
 </table>

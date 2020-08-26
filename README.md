@@ -74,4 +74,5 @@ For now, It contains all the problems I have solved at
 <tr><td>47</td><td><a href=https://codeforces.com/contest/996/problem/A>Hit the Lottery</a></td><td>A</td><td>800</td><td>dp, greedy</td><td><a href=https://codeforces.com/contest/996/submission/90523469>GNU C++14</a></td><td>21 August 2020 16:02:57</td></tr>
 <tr><td>48</td><td><a href=https://codeforces.com/contest/1351/problem/B>Square?</a></td><td>B</td><td>900</td><td>brute force, implementation, math</td><td><a href=https://codeforces.com/contest/1351/submission/90525468>GNU C++14</a></td><td>21 August 2020 16:34:31</td></tr>
 <tr><td>49</td><td><a href=https://codeforces.com/contest/1401/problem/A>Distance and Axis</a></td><td>A</td><td>900</td><td>constructive algorithms, math</td><td><a href=https://codeforces.com/contest/1401/submission/90552691>GNU C++14</a></td><td>21 August 2020 20:23:10</td></tr>
+<tr><td>50</td><td><a href=https://codeforces.com/contest/1400/problem/A>String Similarity</a></td><td>A</td><td>800</td><td>constructive algorithms, strings</td><td><a href=https://codeforces.com/contest/1400/submission/91039356>GNU C++14</a></td><td>26 August 2020 15:36:00</td></tr>
 </table>

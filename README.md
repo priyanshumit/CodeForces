@@ -76,4 +76,5 @@ For now, It contains all the problems I have solved at
 <tr><td>49</td><td><a href=https://codeforces.com/contest/1401/problem/A>Distance and Axis</a></td><td>A</td><td>900</td><td>constructive algorithms, math</td><td><a href=https://codeforces.com/contest/1401/submission/90552691>GNU C++14</a></td><td>21 August 2020 20:23:10</td></tr>
 <tr><td>50</td><td><a href=https://codeforces.com/contest/1400/problem/A>String Similarity</a></td><td>A</td><td>800</td><td>constructive algorithms, strings</td><td><a href=https://codeforces.com/contest/1400/submission/91039356>GNU C++14</a></td><td>26 August 2020 15:36:00</td></tr>
 <tr><td>51</td><td><a href=https://codeforces.com/contest/1154/problem/A>Restoring Three Numbers</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1154/submission/91079600>GNU C++14</a></td><td>26 August 2020 22:51:26</td></tr>
+<tr><td>52</td><td><a href=https://codeforces.com/contest/1283/problem/A>Minutes Before the New Year</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1283/submission/91155388>GNU C++14</a></td><td>27 August 2020 22:47:39</td></tr>
 </table>

@@ -92,4 +92,5 @@ For now, It contains all the problems I have solved at
 <tr><td>65</td><td><a href=https://codeforces.com/contest/1382/problem/A>Common Subsequence</a></td><td>A</td><td>800</td><td>brute force</td><td><a href=https://codeforces.com/contest/1382/submission/91276463>GNU C++14</a></td><td>29 August 2020 15:59:32</td></tr>
 <tr><td>66</td><td><a href=https://codeforces.com/contest/1368/problem/A>C+=</a></td><td>A</td><td>800</td><td>brute force, greedy, implementation, math</td><td><a href=https://codeforces.com/contest/1368/submission/91277421>GNU C++14</a></td><td>29 August 2020 16:14:12</td></tr>
 <tr><td>67</td><td><a href=https://codeforces.com/contest/1285/problem/A>Mezo Playing Zoma</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1285/submission/91277629>GNU C++14</a></td><td>29 August 2020 16:17:32</td></tr>
+<tr><td>68</td><td><a href=https://codeforces.com/contest/599/problem/A>Patrick and Shopping</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/599/submission/91278346>GNU C++14</a></td><td>29 August 2020 16:28:14</td></tr>
 </table>

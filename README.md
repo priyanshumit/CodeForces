@@ -85,4 +85,5 @@ For now, It contains all the problems I have solved at
 <tr><td>58</td><td><a href=https://codeforces.com/contest/1175/problem/A>From Hero to Zero</a></td><td>A</td><td>900</td><td>implementation, math</td><td><a href=https://codeforces.com/contest/1175/submission/91232967>GNU C++14</a></td><td>28 August 2020 23:01:08</td></tr>
 <tr><td>59</td><td><a href=https://codeforces.com/contest/991/problem/B>Getting an A</a></td><td>B</td><td>900</td><td>greedy, sortings</td><td><a href=https://codeforces.com/contest/991/submission/91233930>GNU C++14</a></td><td>28 August 2020 23:16:22</td></tr>
 <tr><td>60</td><td><a href=https://codeforces.com/contest/318/problem/A>Even Odds</a></td><td>A</td><td>900</td><td>math</td><td><a href=https://codeforces.com/contest/318/submission/91235319>GNU C++14</a></td><td>28 August 2020 23:36:52</td></tr>
+<tr><td>61</td><td><a href=https://codeforces.com/contest/870/problem/A>Search for Pretty Integers</a></td><td>A</td><td>900</td><td>brute force, implementation</td><td><a href=https://codeforces.com/contest/870/submission/91261241>GNU C++14</a></td><td>29 August 2020 12:01:28</td></tr>
 </table>

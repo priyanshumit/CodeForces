@@ -96,4 +96,5 @@ For now, It contains all the problems I have solved at
 <tr><td>69</td><td><a href=https://codeforces.com/contest/9/problem/A>Die Roll</a></td><td>A</td><td>800</td><td>math, probabilities</td><td><a href=https://codeforces.com/contest/9/submission/91278940>GNU C++14</a></td><td>29 August 2020 16:37:01</td></tr>
 <tr><td>70</td><td><a href=https://codeforces.com/contest/1234/problem/A>Equalize Prices Again</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1234/submission/91279888>GNU C++14</a></td><td>29 August 2020 16:52:40</td></tr>
 <tr><td>71</td><td><a href=https://codeforces.com/contest/734/problem/B>Anton and Digits</a></td><td>B</td><td>800</td><td>brute force, greedy, implementation, math</td><td><a href=https://codeforces.com/contest/734/submission/91280453>GNU C++14</a></td><td>29 August 2020 17:01:10</td></tr>
+<tr><td>72</td><td><a href=https://codeforces.com/contest/1345/problem/A>Puzzle Pieces</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1345/submission/91281021>GNU C++14</a></td><td>29 August 2020 17:09:57</td></tr>
 </table>

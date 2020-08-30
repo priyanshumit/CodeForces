@@ -97,4 +97,5 @@ For now, It contains all the problems I have solved at
 <tr><td>70</td><td><a href=https://codeforces.com/contest/1234/problem/A>Equalize Prices Again</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1234/submission/91279888>GNU C++14</a></td><td>29 August 2020 16:52:40</td></tr>
 <tr><td>71</td><td><a href=https://codeforces.com/contest/734/problem/B>Anton and Digits</a></td><td>B</td><td>800</td><td>brute force, greedy, implementation, math</td><td><a href=https://codeforces.com/contest/734/submission/91280453>GNU C++14</a></td><td>29 August 2020 17:01:10</td></tr>
 <tr><td>72</td><td><a href=https://codeforces.com/contest/1345/problem/A>Puzzle Pieces</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1345/submission/91281021>GNU C++14</a></td><td>29 August 2020 17:09:57</td></tr>
+<tr><td>73</td><td><a href=https://codeforces.com/contest/1397/problem/A>Juggling Letters</a></td><td>A</td><td>800</td><td>greedy, strings</td><td><a href=https://codeforces.com/contest/1397/submission/91367969>GNU C++14</a></td><td>30 August 2020 20:27:35</td></tr>
 </table>

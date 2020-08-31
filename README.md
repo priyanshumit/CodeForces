@@ -102,4 +102,5 @@ For now, It contains all the problems I have solved at
 <tr><td>75</td><td><a href=https://codeforces.com/contest/1398/problem/A>Bad Triangle</a></td><td>A</td><td>800</td><td>geometry, math</td><td><a href=https://codeforces.com/contest/1398/submission/91482145>GNU C++14</a></td><td>31 August 2020 16:07:25</td></tr>
 <tr><td>76</td><td><a href=https://codeforces.com/contest/702/problem/A>Maximum Increase</a></td><td>A</td><td>800</td><td>dp, greedy, implementation</td><td><a href=https://codeforces.com/contest/702/submission/91483341>GNU C++14</a></td><td>31 August 2020 16:24:25</td></tr>
 <tr><td>77</td><td><a href=https://codeforces.com/contest/1391/problem/A>Suborrays</a></td><td>A</td><td>800</td><td>constructive algorithms, math</td><td><a href=https://codeforces.com/contest/1391/submission/91484514>GNU C++14</a></td><td>31 August 2020 16:41:13</td></tr>
+<tr><td>78</td><td><a href=https://codeforces.com/contest/1220/problem/A>Cards</a></td><td>A</td><td>800</td><td>implementation, sortings, strings</td><td><a href=https://codeforces.com/contest/1220/submission/91484928>GNU C++14</a></td><td>31 August 2020 16:47:17</td></tr>
 </table>

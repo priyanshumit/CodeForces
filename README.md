@@ -110,4 +110,5 @@ For now, It contains all the problems I have solved at
 <tr><td>83</td><td><a href=https://codeforces.com/contest/1303/problem/A>Erasing Zeroes</a></td><td>A</td><td>800</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/1303/submission/91489101>GNU C++14</a></td><td>31 August 2020 17:45:39</td></tr>
 <tr><td>84</td><td><a href=https://codeforces.com/contest/1304/problem/A>Two Rabbits</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1304/submission/91490249>GNU C++14</a></td><td>31 August 2020 18:01:38</td></tr>
 <tr><td>85</td><td><a href=https://codeforces.com/contest/1398/problem/B>Substring Removal Game</a></td><td>B</td><td>800</td><td>games, greedy, sortings</td><td><a href=https://codeforces.com/contest/1398/submission/91503954>GNU C++14</a></td><td>31 August 2020 20:49:39</td></tr>
+<tr><td>86</td><td><a href=https://codeforces.com/contest/686/problem/A>Free Ice Cream</a></td><td>A</td><td>800</td><td>constructive algorithms, implementation</td><td><a href=https://codeforces.com/contest/686/submission/91504658>GNU C++14</a></td><td>31 August 2020 20:57:47</td></tr>
 </table>

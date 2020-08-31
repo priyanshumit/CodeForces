@@ -99,4 +99,5 @@ For now, It contains all the problems I have solved at
 <tr><td>72</td><td><a href=https://codeforces.com/contest/1345/problem/A>Puzzle Pieces</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1345/submission/91281021>GNU C++14</a></td><td>29 August 2020 17:09:57</td></tr>
 <tr><td>73</td><td><a href=https://codeforces.com/contest/1397/problem/A>Juggling Letters</a></td><td>A</td><td>800</td><td>greedy, strings</td><td><a href=https://codeforces.com/contest/1397/submission/91367969>GNU C++14</a></td><td>30 August 2020 20:27:35</td></tr>
 <tr><td>74</td><td><a href=https://codeforces.com/contest/1388/problem/A>Captain Flint and Crew Recruitment</a></td><td>A</td><td>800</td><td>brute force, greedy, math, number theory</td><td><a href=https://codeforces.com/contest/1388/submission/91481514>GNU C++14</a></td><td>31 August 2020 15:58:00</td></tr>
+<tr><td>75</td><td><a href=https://codeforces.com/contest/1398/problem/A>Bad Triangle</a></td><td>A</td><td>800</td><td>geometry, math</td><td><a href=https://codeforces.com/contest/1398/submission/91482145>GNU C++14</a></td><td>31 August 2020 16:07:25</td></tr>
 </table>

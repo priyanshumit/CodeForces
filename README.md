@@ -104,4 +104,5 @@ For now, It contains all the problems I have solved at
 <tr><td>77</td><td><a href=https://codeforces.com/contest/1391/problem/A>Suborrays</a></td><td>A</td><td>800</td><td>constructive algorithms, math</td><td><a href=https://codeforces.com/contest/1391/submission/91484514>GNU C++14</a></td><td>31 August 2020 16:41:13</td></tr>
 <tr><td>78</td><td><a href=https://codeforces.com/contest/1220/problem/A>Cards</a></td><td>A</td><td>800</td><td>implementation, sortings, strings</td><td><a href=https://codeforces.com/contest/1220/submission/91484928>GNU C++14</a></td><td>31 August 2020 16:47:17</td></tr>
 <tr><td>79</td><td><a href=https://codeforces.com/contest/978/problem/B>File Name</a></td><td>B</td><td>800</td><td>greedy, strings</td><td><a href=https://codeforces.com/contest/978/submission/91486383>GNU C++14</a></td><td>31 August 2020 17:07:57</td></tr>
+<tr><td>80</td><td><a href=https://codeforces.com/contest/1077/problem/A>Frog Jumping</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1077/submission/91487420>GNU C++14</a></td><td>31 August 2020 17:22:12</td></tr>
 </table>

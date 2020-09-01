@@ -114,4 +114,5 @@ For now, It contains all the problems I have solved at
 <tr><td>87</td><td><a href=https://codeforces.com/contest/1095/problem/A>Repeating Cipher</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1095/submission/91507049>GNU C++14</a></td><td>31 August 2020 21:27:55</td></tr>
 <tr><td>88</td><td><a href=https://codeforces.com/contest/1397/problem/B>Power Sequence</a></td><td>B</td><td>1500</td><td>brute force, math, number theory, sortings</td><td><a href=https://codeforces.com/contest/1397/submission/91541743>GNU C++14</a></td><td>01 September 2020 12:12:22</td></tr>
 <tr><td>89</td><td><a href=https://codeforces.com/contest/894/problem/A>QAQ</a></td><td>A</td><td>800</td><td>brute force, dp</td><td><a href=https://codeforces.com/contest/894/submission/91542317>GNU C++14</a></td><td>01 September 2020 12:22:13</td></tr>
+<tr><td>90</td><td><a href=https://codeforces.com/contest/1391/problem/B>Fix You</a></td><td>B</td><td>800</td><td>brute force, greedy, implementation</td><td><a href=https://codeforces.com/contest/1391/submission/91548024>GNU C++14</a></td><td>01 September 2020 13:47:36</td></tr>
 </table>

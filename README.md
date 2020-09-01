@@ -122,4 +122,5 @@ For now, It contains all the problems I have solved at
 <tr><td>95</td><td><a href=https://codeforces.com/contest/1249/problem/A>Yet Another Dividing into Teams</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1249/submission/91567010>GNU C++14</a></td><td>01 September 2020 18:30:36</td></tr>
 <tr><td>96</td><td><a href=https://codeforces.com/contest/233/problem/A>Perfect Permutation</a></td><td>A</td><td>800</td><td>implementation, math</td><td><a href=https://codeforces.com/contest/233/submission/91580194>GNU C++14</a></td><td>01 September 2020 21:07:43</td></tr>
 <tr><td>97</td><td><a href=https://codeforces.com/contest/1092/problem/B>Teams Forming</a></td><td>B</td><td>800</td><td>sortings</td><td><a href=https://codeforces.com/contest/1092/submission/91580561>GNU C++14</a></td><td>01 September 2020 21:12:20</td></tr>
+<tr><td>98</td><td><a href=https://codeforces.com/contest/1393/problem/A>Rainbow Dash, Fluttershy and Chess Coloring</a></td><td>A</td><td>800</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/1393/submission/91581699>GNU C++14</a></td><td>01 September 2020 21:25:52</td></tr>
 </table>

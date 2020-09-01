@@ -116,4 +116,5 @@ For now, It contains all the problems I have solved at
 <tr><td>89</td><td><a href=https://codeforces.com/contest/894/problem/A>QAQ</a></td><td>A</td><td>800</td><td>brute force, dp</td><td><a href=https://codeforces.com/contest/894/submission/91542317>GNU C++14</a></td><td>01 September 2020 12:22:13</td></tr>
 <tr><td>90</td><td><a href=https://codeforces.com/contest/1391/problem/B>Fix You</a></td><td>B</td><td>800</td><td>brute force, greedy, implementation</td><td><a href=https://codeforces.com/contest/1391/submission/91548024>GNU C++14</a></td><td>01 September 2020 13:47:36</td></tr>
 <tr><td>91</td><td><a href=https://codeforces.com/contest/1183/problem/A>Nearest Interesting Number</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1183/submission/91549559>GNU C++14</a></td><td>01 September 2020 14:10:51</td></tr>
+<tr><td>92</td><td><a href=https://codeforces.com/contest/1223/problem/A>CME</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1223/submission/91549782>GNU C++14</a></td><td>01 September 2020 14:14:22</td></tr>
 </table>

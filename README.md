@@ -127,4 +127,5 @@ For now, It contains all the problems I have solved at
 <tr><td>100</td><td><a href=https://codeforces.com/contest/1294/problem/A>Collecting Coins</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1294/submission/91610755>GNU C++14</a></td><td>02 September 2020 10:04:05</td></tr>
 <tr><td>101</td><td><a href=https://codeforces.com/contest/707/problem/A>Brain's Photos</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/707/submission/91611063>GNU C++14</a></td><td>02 September 2020 10:11:22</td></tr>
 <tr><td>102</td><td><a href=https://codeforces.com/contest/1369/problem/A>FashionabLee</a></td><td>A</td><td>800</td><td>geometry, math</td><td><a href=https://codeforces.com/contest/1369/submission/91611179>GNU C++14</a></td><td>02 September 2020 10:14:18</td></tr>
+<tr><td>103</td><td><a href=https://codeforces.com/contest/492/problem/A>Vanya and Cubes</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/492/submission/91612061>GNU C++14</a></td><td>02 September 2020 10:32:08</td></tr>
 </table>

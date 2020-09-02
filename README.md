@@ -125,4 +125,5 @@ For now, It contains all the problems I have solved at
 <tr><td>98</td><td><a href=https://codeforces.com/contest/1393/problem/A>Rainbow Dash, Fluttershy and Chess Coloring</a></td><td>A</td><td>800</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/1393/submission/91581699>GNU C++14</a></td><td>01 September 2020 21:25:52</td></tr>
 <tr><td>99</td><td><a href=https://codeforces.com/contest/1108/problem/A>Two distinct points</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1108/submission/91582004>GNU C++14</a></td><td>01 September 2020 21:29:44</td></tr>
 <tr><td>100</td><td><a href=https://codeforces.com/contest/1294/problem/A>Collecting Coins</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1294/submission/91610755>GNU C++14</a></td><td>02 September 2020 10:04:05</td></tr>
+<tr><td>101</td><td><a href=https://codeforces.com/contest/707/problem/A>Brain's Photos</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/707/submission/91611063>GNU C++14</a></td><td>02 September 2020 10:11:22</td></tr>
 </table>

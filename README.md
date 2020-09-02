@@ -131,4 +131,5 @@ For now, It contains all the problems I have solved at
 <tr><td>104</td><td><a href=https://codeforces.com/contest/32/problem/B>Borze</a></td><td>B</td><td>800</td><td>expression parsing, implementation</td><td><a href=https://codeforces.com/contest/32/submission/91660823>GNU C++14</a></td><td>02 September 2020 22:20:22</td></tr>
 <tr><td>105</td><td><a href=https://codeforces.com/contest/1206/problem/A>Choose Two Numbers</a></td><td>A</td><td>800</td><td>math, sortings</td><td><a href=https://codeforces.com/contest/1206/submission/91661385>GNU C++14</a></td><td>02 September 2020 22:28:38</td></tr>
 <tr><td>106</td><td><a href=https://codeforces.com/contest/510/problem/A>Fox And Snake</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/510/submission/91661933>GNU C++14</a></td><td>02 September 2020 22:36:41</td></tr>
+<tr><td>107</td><td><a href=https://codeforces.com/contest/472/problem/A>Design Tutorial: Learn from Math</a></td><td>A</td><td>800</td><td>math, number theory</td><td><a href=https://codeforces.com/contest/472/submission/91662833>GNU C++14</a></td><td>02 September 2020 22:49:48</td></tr>
 </table>

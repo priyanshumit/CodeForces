@@ -138,4 +138,5 @@ For now, It contains all the problems I have solved at
 <tr><td>111</td><td><a href=https://codeforces.com/contest/1343/problem/B>Balanced Array</a></td><td>B</td><td>800</td><td>constructive algorithms, math</td><td><a href=https://codeforces.com/contest/1343/submission/91665520>GNU C++14</a></td><td>02 September 2020 23:28:25</td></tr>
 <tr><td>112</td><td><a href=https://codeforces.com/contest/935/problem/A>Fafa and his Company</a></td><td>A</td><td>800</td><td>brute force, implementation</td><td><a href=https://codeforces.com/contest/935/submission/91665880>GNU C++14</a></td><td>02 September 2020 23:34:24</td></tr>
 <tr><td>113</td><td><a href=https://codeforces.com/contest/386/problem/A>Second-Price Auction</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/386/submission/91666699>GNU C++14</a></td><td>02 September 2020 23:47:05</td></tr>
+<tr><td>114</td><td><a href=https://codeforces.com/contest/1385/problem/A>Three Pairwise Maximums</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1385/submission/91670798>GNU C++14</a></td><td>03 September 2020 01:00:41</td></tr>
 </table>

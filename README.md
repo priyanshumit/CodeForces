@@ -133,4 +133,5 @@ For now, It contains all the problems I have solved at
 <tr><td>106</td><td><a href=https://codeforces.com/contest/510/problem/A>Fox And Snake</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/510/submission/91661933>GNU C++14</a></td><td>02 September 2020 22:36:41</td></tr>
 <tr><td>107</td><td><a href=https://codeforces.com/contest/472/problem/A>Design Tutorial: Learn from Math</a></td><td>A</td><td>800</td><td>math, number theory</td><td><a href=https://codeforces.com/contest/472/submission/91662833>GNU C++14</a></td><td>02 September 2020 22:49:48</td></tr>
 <tr><td>108</td><td><a href=https://codeforces.com/contest/581/problem/A>Vasya the Hipster</a></td><td>A</td><td>800</td><td>implementation, math</td><td><a href=https://codeforces.com/contest/581/submission/91663063>GNU C++14</a></td><td>02 September 2020 22:53:02</td></tr>
+<tr><td>109</td><td><a href=https://codeforces.com/contest/155/problem/A>I_love_\%username\%</a></td><td>A</td><td>800</td><td>brute force</td><td><a href=https://codeforces.com/contest/155/submission/91663400>GNU C++14</a></td><td>02 September 2020 22:57:59</td></tr>
 </table>

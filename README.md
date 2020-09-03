@@ -147,4 +147,5 @@ For now, It contains all the problems I have solved at
 <tr><td>120</td><td><a href=https://codeforces.com/contest/61/problem/A>Ultra-Fast Mathematician</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/61/submission/91692975>GNU C++14</a></td><td>03 September 2020 12:04:50</td></tr>
 <tr><td>121</td><td><a href=https://codeforces.com/contest/200/problem/B>Drinks</a></td><td>B</td><td>800</td><td>implementation, math</td><td><a href=https://codeforces.com/contest/200/submission/91693267>GNU C++14</a></td><td>03 September 2020 12:09:48</td></tr>
 <tr><td>122</td><td><a href=https://codeforces.com/contest/469/problem/A>I Wanna Be the Guy</a></td><td>A</td><td>800</td><td>greedy, implementation</td><td><a href=https://codeforces.com/contest/469/submission/91694673>GNU C++14</a></td><td>03 September 2020 12:33:38</td></tr>
+<tr><td>123</td><td><a href=https://codeforces.com/contest/228/problem/A>Is your horseshoe on the other hoof?</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/228/submission/91695149>GNU C++14</a></td><td>03 September 2020 12:40:26</td></tr>
 </table>

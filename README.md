@@ -143,4 +143,5 @@ For now, It contains all the problems I have solved at
 <tr><td>116</td><td><a href=https://codeforces.com/contest/677/problem/A>Vanya and Fence</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/677/submission/91691694>GNU C++14</a></td><td>03 September 2020 11:43:35</td></tr>
 <tr><td>117</td><td><a href=https://codeforces.com/contest/344/problem/A>Magnets</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/344/submission/91691967>GNU C++14</a></td><td>03 September 2020 11:47:50</td></tr>
 <tr><td>118</td><td><a href=https://codeforces.com/contest/705/problem/A>Hulk</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/705/submission/91692345>GNU C++14</a></td><td>03 September 2020 11:54:07</td></tr>
+<tr><td>119</td><td><a href=https://codeforces.com/contest/486/problem/A>Calculating Function</a></td><td>A</td><td>800</td><td>implementation, math</td><td><a href=https://codeforces.com/contest/486/submission/91692583>GNU C++14</a></td><td>03 September 2020 11:58:10</td></tr>
 </table>

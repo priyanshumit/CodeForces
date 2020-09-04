@@ -153,4 +153,5 @@ For now, It contains all the problems I have solved at
 <tr><td>126</td><td><a href=https://codeforces.com/contest/268/problem/A>Games</a></td><td>A</td><td>800</td><td>brute force</td><td><a href=https://codeforces.com/contest/268/submission/91737864>GNU C++14</a></td><td>03 September 2020 22:14:20</td></tr>
 <tr><td>127</td><td><a href=https://codeforces.com/contest/520/problem/A>Pangram</a></td><td>A</td><td>800</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/520/submission/91767181>GNU C++14</a></td><td>04 September 2020 11:22:58</td></tr>
 <tr><td>128</td><td><a href=https://codeforces.com/contest/141/problem/A>Amusing Joke</a></td><td>A</td><td>800</td><td>implementation, sortings, strings</td><td><a href=https://codeforces.com/contest/141/submission/91767882>GNU C++14</a></td><td>04 September 2020 11:33:37</td></tr>
+<tr><td>129</td><td><a href=https://codeforces.com/contest/1335/problem/A>Candies and Two Sisters</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1335/submission/91768232>GNU C++14</a></td><td>04 September 2020 11:38:59</td></tr>
 </table>

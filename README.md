@@ -157,4 +157,5 @@ For now, It contains all the problems I have solved at
 <tr><td>130</td><td><a href=https://codeforces.com/contest/119/problem/A>Epic Game</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/119/submission/91769453>GNU C++14</a></td><td>04 September 2020 11:57:40</td></tr>
 <tr><td>131</td><td><a href=https://codeforces.com/contest/630/problem/A>Again Twenty Five!</a></td><td>A</td><td>800</td><td>number theory</td><td><a href=https://codeforces.com/contest/630/submission/91769609>GNU C++14</a></td><td>04 September 2020 11:59:47</td></tr>
 <tr><td>132</td><td><a href=https://codeforces.com/contest/1409/problem/A>Yet Another Two Integers Problem</a></td><td>A</td><td>800</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/1409/submission/91803474>GNU C++14</a></td><td>04 September 2020 20:07:49</td></tr>
+<tr><td>133</td><td><a href=https://codeforces.com/contest/1409/problem/B>Minimum Product</a></td><td>B</td><td>1100</td><td>brute force, greedy, math</td><td><a href=https://codeforces.com/contest/1409/submission/91839888>GNU C++14</a></td><td>04 September 2020 20:52:21</td></tr>
 </table>

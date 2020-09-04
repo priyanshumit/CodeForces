@@ -151,4 +151,5 @@ For now, It contains all the problems I have solved at
 <tr><td>124</td><td><a href=https://codeforces.com/contest/492/problem/B>Vanya and Lanterns</a></td><td>B</td><td>1200</td><td>binary search, implementation, math, sortings</td><td><a href=https://codeforces.com/contest/492/submission/91705854>GNU C++14</a></td><td>03 September 2020 15:23:54</td></tr>
 <tr><td>125</td><td><a href=https://codeforces.com/contest/1328/problem/A>Divisibility Problem</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1328/submission/91707963>GNU C++14</a></td><td>03 September 2020 15:56:08</td></tr>
 <tr><td>126</td><td><a href=https://codeforces.com/contest/268/problem/A>Games</a></td><td>A</td><td>800</td><td>brute force</td><td><a href=https://codeforces.com/contest/268/submission/91737864>GNU C++14</a></td><td>03 September 2020 22:14:20</td></tr>
+<tr><td>127</td><td><a href=https://codeforces.com/contest/520/problem/A>Pangram</a></td><td>A</td><td>800</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/520/submission/91767181>GNU C++14</a></td><td>04 September 2020 11:22:58</td></tr>
 </table>

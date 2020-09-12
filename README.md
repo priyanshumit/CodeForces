@@ -168,4 +168,5 @@ For now, It contains all the problems I have solved at
 <tr><td>141</td><td><a href=https://codeforces.com/contest/1323/problem/A>Even Subset Sum Problem</a></td><td>A</td><td>800</td><td>brute force, dp, greedy, implementation</td><td><a href=https://codeforces.com/contest/1323/submission/92375434>GNU C++14</a></td><td>09 September 2020 23:01:21</td></tr>
 <tr><td>142</td><td><a href=https://codeforces.com/contest/1017/problem/A>The Rank</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1017/submission/92375912>GNU C++14</a></td><td>09 September 2020 23:08:19</td></tr>
 <tr><td>143</td><td><a href=https://codeforces.com/contest/746/problem/A>Compote</a></td><td>A</td><td>800</td><td>implementation, math</td><td><a href=https://codeforces.com/contest/746/submission/92376144>GNU C++14</a></td><td>09 September 2020 23:11:28</td></tr>
+<tr><td>144</td><td><a href=https://codeforces.com/contest/1406/problem/A>Subset Mex</a></td><td>A</td><td>900</td><td>greedy, implementation, math</td><td><a href=https://codeforces.com/contest/1406/submission/92591095>GNU C++14</a></td><td>12 September 2020 19:31:11</td></tr>
 </table>

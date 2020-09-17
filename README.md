@@ -173,4 +173,5 @@ For now, It contains all the problems I have solved at
 <tr><td>146</td><td><a href=https://codeforces.com/contest/151/problem/A>Soft Drinking</a></td><td>A</td><td>800</td><td>implementation, math</td><td><a href=https://codeforces.com/contest/151/submission/92795328>GNU C++14</a></td><td>14 September 2020 19:41:29</td></tr>
 <tr><td>147</td><td><a href=https://codeforces.com/contest/381/problem/A>Sereja and Dima</a></td><td>A</td><td>800</td><td>greedy, implementation, two pointers</td><td><a href=https://codeforces.com/contest/381/submission/92796392>GNU C++14</a></td><td>14 September 2020 19:55:02</td></tr>
 <tr><td>148</td><td><a href=https://codeforces.com/contest/1418/problem/A>Buying Torches</a></td><td>A</td><td>1000</td><td>math</td><td><a href=https://codeforces.com/contest/1418/submission/92830461>GNU C++14</a></td><td>14 September 2020 21:26:05</td></tr>
+<tr><td>149</td><td><a href=https://codeforces.com/contest/110/problem/A>Nearly Lucky Number</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/110/submission/93030721>GNU C++14</a></td><td>17 September 2020 14:14:36</td></tr>
 </table>

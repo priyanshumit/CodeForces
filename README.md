@@ -176,4 +176,5 @@ For now, It contains all the problems I have solved at
 <tr><td>149</td><td><a href=https://codeforces.com/contest/110/problem/A>Nearly Lucky Number</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/110/submission/93030721>GNU C++14</a></td><td>17 September 2020 14:14:36</td></tr>
 <tr><td>150</td><td><a href=https://codeforces.com/contest/271/problem/A>Beautiful Year</a></td><td>A</td><td>800</td><td>brute force</td><td><a href=https://codeforces.com/contest/271/submission/93031795>GNU C++14</a></td><td>17 September 2020 14:32:25</td></tr>
 <tr><td>151</td><td><a href=https://codeforces.com/contest/1399/problem/A>Remove Smallest</a></td><td>A</td><td>800</td><td>greedy, sortings</td><td><a href=https://codeforces.com/contest/1399/submission/93058087>GNU C++14</a></td><td>17 September 2020 20:38:01</td></tr>
+<tr><td>152</td><td><a href=https://codeforces.com/contest/1399/problem/B>Gifts Fixing</a></td><td>B</td><td>800</td><td>greedy</td><td><a href=https://codeforces.com/contest/1399/submission/93061062>GNU C++14</a></td><td>17 September 2020 21:14:48</td></tr>
 </table>

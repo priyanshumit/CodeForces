@@ -182,4 +182,5 @@ For now, It contains all the problems I have solved at
 <tr><td>155</td><td><a href=https://codeforces.com/contest/1417/problem/A>Copy-paste</a></td><td>A</td><td>800</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/1417/submission/93972944>GNU C++14</a></td><td>27 September 2020 20:42:04</td></tr>
 <tr><td>156</td><td><a href=https://codeforces.com/contest/1422/problem/A>Fence</a></td><td>A</td><td>800</td><td>geometry, math</td><td><a href=https://codeforces.com/contest/1422/submission/94670242>GNU C++14</a></td><td>04 October 2020 21:46:24</td></tr>
 <tr><td>157</td><td><a href=https://codeforces.com/contest/1427/problem/A>Avoiding Zero</a></td><td>A</td><td>900</td><td>math, sortings</td><td><a href=https://codeforces.com/contest/1427/submission/95114476>GNU C++14</a></td><td>10 October 2020 21:02:14</td></tr>
+<tr><td>158</td><td><a href=https://codeforces.com/contest/1430/problem/A>Number of Apartments</a></td><td>A</td><td>900</td><td>brute force, constructive algorithms, math</td><td><a href=https://codeforces.com/contest/1430/submission/95206279>GNU C++14</a></td><td>11 October 2020 14:54:42</td></tr>
 </table>

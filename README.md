@@ -189,4 +189,5 @@ For now, It contains all the problems I have solved at
 <tr><td>162</td><td><a href=https://codeforces.com/contest/1421/problem/A>XORwice</a></td><td>A</td><td>800</td><td>bitmasks, greedy, math</td><td><a href=https://codeforces.com/contest/1421/submission/95862250>GNU C++14</a></td><td>18 October 2020 14:45:29</td></tr>
 <tr><td>163</td><td><a href=https://codeforces.com/contest/1096/problem/A>Find Divisible</a></td><td>A</td><td>800</td><td>greedy, implementation, math</td><td><a href=https://codeforces.com/contest/1096/submission/96412771>GNU C++14</a></td><td>23 October 2020 10:39:54</td></tr>
 <tr><td>164</td><td><a href=https://codeforces.com/contest/1080/problem/A>Petya and Origami</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1080/submission/96413031>GNU C++14</a></td><td>23 October 2020 10:46:47</td></tr>
+<tr><td>165</td><td><a href=https://codeforces.com/contest/984/problem/A>Game</a></td><td>A</td><td>800</td><td>sortings</td><td><a href=https://codeforces.com/contest/984/submission/96414744>GNU C++14</a></td><td>23 October 2020 11:20:57</td></tr>
 </table>

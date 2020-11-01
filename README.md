@@ -195,4 +195,5 @@ For now, It contains all the problems I have solved at
 <tr><td>168</td><td><a href=https://codeforces.com/contest/1435/problem/A>Finding Sasuke</a></td><td>A</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1435/submission/96650462>GNU C++14</a></td><td>25 October 2020 16:40:11</td></tr>
 <tr><td>169</td><td><a href=https://codeforces.com/contest/1272/problem/A>Three Friends</a></td><td>A</td><td>900</td><td>brute force, greedy, math, sortings</td><td><a href=https://codeforces.com/contest/1272/submission/96757343>GNU C++14</a></td><td>26 October 2020 13:41:02</td></tr>
 <tr><td>170</td><td><a href=https://codeforces.com/contest/1445/problem/A>Array Rearrangment</a></td><td>A</td><td>800</td><td>greedy, sortings</td><td><a href=https://codeforces.com/contest/1445/submission/97307459>GNU C++14</a></td><td>01 November 2020 16:41:44</td></tr>
+<tr><td>171</td><td><a href=https://codeforces.com/contest/1445/problem/B>Elimination</a></td><td>B</td><td>900</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/1445/submission/97314843>GNU C++14</a></td><td>01 November 2020 16:53:05</td></tr>
 </table>

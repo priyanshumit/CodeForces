@@ -196,4 +196,5 @@ For now, It contains all the problems I have solved at
 <tr><td>169</td><td><a href=https://codeforces.com/contest/1272/problem/A>Three Friends</a></td><td>A</td><td>900</td><td>brute force, greedy, math, sortings</td><td><a href=https://codeforces.com/contest/1272/submission/96757343>GNU C++14</a></td><td>26 October 2020 13:41:02</td></tr>
 <tr><td>170</td><td><a href=https://codeforces.com/contest/1445/problem/A>Array Rearrangment</a></td><td>A</td><td>800</td><td>greedy, sortings</td><td><a href=https://codeforces.com/contest/1445/submission/97307459>GNU C++14</a></td><td>01 November 2020 16:41:44</td></tr>
 <tr><td>171</td><td><a href=https://codeforces.com/contest/1445/problem/B>Elimination</a></td><td>B</td><td>900</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/1445/submission/97314843>GNU C++14</a></td><td>01 November 2020 16:53:05</td></tr>
+<tr><td>172</td><td><a href=https://codeforces.com/contest/1443/problem/A>Kids Seating</a></td><td>A</td><td>800</td><td>constructive algorithms, math</td><td><a href=https://codeforces.com/contest/1443/submission/97440958>GNU C++14</a></td><td>02 November 2020 20:15:43</td></tr>
 </table>

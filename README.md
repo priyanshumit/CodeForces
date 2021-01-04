@@ -212,4 +212,5 @@ For now, It contains all the problems I have solved at
 <tr><td>185</td><td><a href=https://codeforces.com/contest/1472/problem/A>Cards for Friends</a></td><td>A</td><td>800</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/1472/submission/103189383>GNU C++14</a></td><td>04 January 2021 20:10:18</td></tr>
 <tr><td>186</td><td><a href=https://codeforces.com/contest/1472/problem/B>Fair Division</a></td><td>B</td><td>800</td><td>dp, greedy, math</td><td><a href=https://codeforces.com/contest/1472/submission/103202938>GNU C++14</a></td><td>04 January 2021 20:18:28</td></tr>
 <tr><td>187</td><td><a href=https://codeforces.com/contest/1472/problem/D>Even-Odd Game</a></td><td>D</td><td>1200</td><td>dp, games, greedy, sortings</td><td><a href=https://codeforces.com/contest/1472/submission/103227502>GNU C++14</a></td><td>04 January 2021 20:35:22</td></tr>
+<tr><td>188</td><td><a href=https://codeforces.com/contest/1472/problem/C>Long Jumps</a></td><td>C</td><td>1100</td><td>dp, graphs</td><td><a href=https://codeforces.com/contest/1472/submission/103244674>GNU C++14</a></td><td>04 January 2021 20:50:27</td></tr>
 </table>

@@ -215,4 +215,5 @@ For now, It contains all the problems I have solved at
 <tr><td>188</td><td><a href=https://codeforces.com/contest/1472/problem/C>Long Jumps</a></td><td>C</td><td>1100</td><td>dp, graphs</td><td><a href=https://codeforces.com/contest/1472/submission/103244674>GNU C++14</a></td><td>04 January 2021 20:50:27</td></tr>
 <tr><td>189</td><td><a href=https://codeforces.com/contest/1473/problem/B>String LCM</a></td><td>B</td><td>1000</td><td>brute force, math, number theory, strings</td><td><a href=https://codeforces.com/contest/1473/submission/104489330>GNU C++14</a></td><td>16 January 2021 14:27:02</td></tr>
 <tr><td>190</td><td><a href=https://codeforces.com/contest/1471/problem/A>Strange Partition</a></td><td>A</td><td>900</td><td>greedy, math, number theory</td><td><a href=https://codeforces.com/contest/1471/submission/104492346>GNU C++14</a></td><td>16 January 2021 14:57:19</td></tr>
+<tr><td>191</td><td><a href=https://codeforces.com/contest/96/problem/A>Football</a></td><td>A</td><td>900</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/96/submission/104734859>GNU C++14</a></td><td>19 January 2021 09:40:01</td></tr>
 </table>

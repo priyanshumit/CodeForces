@@ -217,4 +217,5 @@ For now, It contains all the problems I have solved at
 <tr><td>190</td><td><a href=https://codeforces.com/contest/1471/problem/A>Strange Partition</a></td><td>A</td><td>900</td><td>greedy, math, number theory</td><td><a href=https://codeforces.com/contest/1471/submission/104492346>GNU C++14</a></td><td>16 January 2021 14:57:19</td></tr>
 <tr><td>191</td><td><a href=https://codeforces.com/contest/96/problem/A>Football</a></td><td>A</td><td>900</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/96/submission/104734859>GNU C++14</a></td><td>19 January 2021 09:40:01</td></tr>
 <tr><td>192</td><td><a href=https://codeforces.com/contest/160/problem/A>Twins</a></td><td>A</td><td>900</td><td>greedy, sortings</td><td><a href=https://codeforces.com/contest/160/submission/104735737>GNU C++14</a></td><td>19 January 2021 10:02:54</td></tr>
+<tr><td>193</td><td><a href=https://codeforces.com/contest/580/problem/A>Kefa and First Steps</a></td><td>A</td><td>900</td><td>brute force, dp, implementation</td><td><a href=https://codeforces.com/contest/580/submission/104736045>GNU C++14</a></td><td>19 January 2021 10:11:30</td></tr>
 </table>

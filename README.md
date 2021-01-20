@@ -221,4 +221,5 @@ For now, It contains all the problems I have solved at
 <tr><td>194</td><td><a href=https://codeforces.com/contest/133/problem/A>HQ9+</a></td><td>A</td><td>900</td><td>implementation</td><td><a href=https://codeforces.com/contest/133/submission/104736882>GNU C++14</a></td><td>19 January 2021 10:32:06</td></tr>
 <tr><td>195</td><td><a href=https://codeforces.com/contest/1/problem/A>Theatre Square</a></td><td>A</td><td>1000</td><td>math</td><td><a href=https://codeforces.com/contest/1/submission/104737851>GNU C++14</a></td><td>19 January 2021 10:54:38</td></tr>
 <tr><td>196</td><td><a href=https://codeforces.com/contest/1474/problem/B>Different Divisors</a></td><td>B</td><td>1000</td><td>binary search, constructive algorithms, greedy, math, number theory</td><td><a href=https://codeforces.com/contest/1474/submission/104800133>GNU C++14</a></td><td>19 January 2021 20:45:46</td></tr>
+<tr><td>197</td><td><a href=https://codeforces.com/contest/1367/problem/A>Short Substrings</a></td><td>A</td><td>800</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/1367/submission/104922361>PyPy 3</a></td><td>20 January 2021 21:45:01</td></tr>
 </table>

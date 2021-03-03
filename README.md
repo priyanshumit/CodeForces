@@ -229,4 +229,5 @@ For now, It contains all the problems I have solved at
 <tr><td>202</td><td><a href=https://codeforces.com/contest/1327/problem/A>Sum of Odd Integers</a></td><td>A</td><td>1100</td><td>math</td><td><a href=https://codeforces.com/contest/1327/submission/106122957>GNU C++17</a></td><td>31 January 2021 22:09:18</td></tr>
 <tr><td>203</td><td><a href=https://codeforces.com/contest/1487/problem/A>Arena</a></td><td>A</td><td>800</td><td>implementation, sortings</td><td><a href=https://codeforces.com/contest/1487/submission/107420366>GNU C++17</a></td><td>15 February 2021 20:18:25</td></tr>
 <tr><td>204</td><td><a href=https://codeforces.com/contest/1491/problem/A>K-th Largest Value</a></td><td>A</td><td>800</td><td>brute force, greedy, implementation</td><td><a href=https://codeforces.com/contest/1491/submission/108769465>GNU C++17</a></td><td>01 March 2021 10:20:11</td></tr>
+<tr><td>205</td><td><a href=https://codeforces.com/contest/1480/problem/A>Yet Another String Game</a></td><td>A</td><td>800</td><td>games, greedy, strings</td><td><a href=https://codeforces.com/contest/1480/submission/109016804>GNU C++17</a></td><td>03 March 2021 20:23:38</td></tr>
 </table>

@@ -238,4 +238,5 @@ For now, It contains all the problems I have solved at
 <tr><td>211</td><td><a href=https://codeforces.com/contest/1496/problem/C>Diamond Miner</a></td><td>C</td><td>1200</td><td>geometry, greedy, sortings</td><td><a href=https://codeforces.com/contest/1496/submission/109710162>GNU C++17</a></td><td>11 March 2021 19:00:38</td></tr>
 <tr><td>212</td><td><a href=https://codeforces.com/contest/1363/problem/A>Odd Selection</a></td><td>A</td><td>1200</td><td>brute force, implementation, math</td><td><a href=https://codeforces.com/contest/1363/submission/109755426>GNU C++17</a></td><td>12 March 2021 11:44:40</td></tr>
 <tr><td>213</td><td><a href=https://codeforces.com/contest/1501/problem/A>Alexey and Train</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1501/submission/109860017>GNU C++17</a></td><td>13 March 2021 15:24:44</td></tr>
+<tr><td>214</td><td><a href=https://codeforces.com/contest/1465/problem/A>In-game Chat</a></td><td>A</td><td>800</td><td>implementation, strings</td><td><a href=https://codeforces.com/contest/1465/submission/110048702>GNU C++17</a></td><td>15 March 2021 20:36:53</td></tr>
 </table>

@@ -252,4 +252,5 @@ For now, It contains all the problems I have solved at
 <tr><td>225</td><td><a href=https://codeforces.com/contest/1511/problem/B>GCD Length</a></td><td>B</td><td>1100</td><td>constructive algorithms, math, number theory</td><td><a href=https://codeforces.com/contest/1511/submission/112939415>GNU C++17</a></td><td>13 April 2021 20:43:46</td></tr>
 <tr><td>226</td><td><a href=https://codeforces.com/contest/1509/problem/A>Average Height</a></td><td>A</td><td>800</td><td>constructive algorithms</td><td><a href=https://codeforces.com/contest/1509/submission/113196513>GNU C++17</a></td><td>16 April 2021 20:17:24</td></tr>
 <tr><td>227</td><td><a href=https://codeforces.com/contest/1509/problem/B>TMT Document</a></td><td>B</td><td>1100</td><td>greedy</td><td><a href=https://codeforces.com/contest/1509/submission/113198133>GNU C++17</a></td><td>16 April 2021 20:19:13</td></tr>
+<tr><td>228</td><td><a href=https://codeforces.com/contest/1505/problem/B>DMCA</a></td><td>B</td><td>1600</td><td>*special, implementation, number theory</td><td><a href=https://codeforces.com/contest/1505/submission/113402214>GNU C++17</a></td><td>18 April 2021 15:30:29</td></tr>
 </table>

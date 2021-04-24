@@ -256,4 +256,5 @@ For now, It contains all the problems I have solved at
 <tr><td>229</td><td><a href=https://codeforces.com/contest/1517/problem/A>Sum of 2050</a></td><td>A</td><td>800</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/1517/submission/113992308>GNU C++17</a></td><td>23 April 2021 20:17:42</td></tr>
 <tr><td>230</td><td><a href=https://codeforces.com/contest/1380/problem/A>Three Indices</a></td><td>A</td><td>900</td><td>brute force, data structures</td><td><a href=https://codeforces.com/contest/1380/submission/114124219>GNU C++17</a></td><td>24 April 2021 20:21:52</td></tr>
 <tr><td>231</td><td><a href=https://codeforces.com/contest/1380/problem/B>Universal Solution</a></td><td>B</td><td>1400</td><td>greedy</td><td><a href=https://codeforces.com/contest/1380/submission/114125239>GNU C++17</a></td><td>24 April 2021 20:33:13</td></tr>
+<tr><td>232</td><td><a href=https://codeforces.com/contest/1380/problem/C>Create The Teams</a></td><td>C</td><td>1400</td><td>brute force, dp, greedy, implementation, sortings</td><td><a href=https://codeforces.com/contest/1380/submission/114125741>GNU C++17</a></td><td>24 April 2021 20:38:43</td></tr>
 </table>

@@ -254,4 +254,5 @@ For now, It contains all the problems I have solved at
 <tr><td>227</td><td><a href=https://codeforces.com/contest/1509/problem/B>TMT Document</a></td><td>B</td><td>1100</td><td>greedy</td><td><a href=https://codeforces.com/contest/1509/submission/113198133>GNU C++17</a></td><td>16 April 2021 20:19:13</td></tr>
 <tr><td>228</td><td><a href=https://codeforces.com/contest/1505/problem/B>DMCA</a></td><td>B</td><td>1600</td><td>*special, implementation, number theory</td><td><a href=https://codeforces.com/contest/1505/submission/113402214>GNU C++17</a></td><td>18 April 2021 15:30:29</td></tr>
 <tr><td>229</td><td><a href=https://codeforces.com/contest/1517/problem/A>Sum of 2050</a></td><td>A</td><td>800</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/1517/submission/113992308>GNU C++17</a></td><td>23 April 2021 20:17:42</td></tr>
+<tr><td>230</td><td><a href=https://codeforces.com/contest/1380/problem/A>Three Indices</a></td><td>A</td><td>900</td><td>brute force, data structures</td><td><a href=https://codeforces.com/contest/1380/submission/114124219>GNU C++17</a></td><td>24 April 2021 20:21:52</td></tr>
 </table>

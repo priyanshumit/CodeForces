@@ -261,4 +261,5 @@ For now, It contains all the problems I have solved at
 <tr><td>234</td><td><a href=https://codeforces.com/contest/1515/problem/A>Phoenix and Gold</a></td><td>A</td><td>800</td><td>constructive algorithms, greedy, math</td><td><a href=https://codeforces.com/contest/1515/submission/114877217>GNU C++17</a></td><td>02 May 2021 20:18:35</td></tr>
 <tr><td>235</td><td><a href=https://codeforces.com/contest/1525/problem/B>Permutation Sort</a></td><td>B</td><td>900</td><td>constructive algorithms, greedy</td><td><a href=https://codeforces.com/contest/1525/submission/116346558>GNU C++17</a></td><td>16 May 2021 13:59:06</td></tr>
 <tr><td>236</td><td><a href=https://codeforces.com/contest/1525/problem/A>Potion-making</a></td><td>A</td><td>800</td><td>math, number theory</td><td><a href=https://codeforces.com/contest/1525/submission/116348691>GNU C++17</a></td><td>16 May 2021 14:02:19</td></tr>
+<tr><td>237</td><td><a href=https://codeforces.com/contest/1256/problem/A>Payment Without Change</a></td><td>A</td><td>1000</td><td>math</td><td><a href=https://codeforces.com/contest/1256/submission/116469597>GNU C++17</a></td><td>17 May 2021 15:09:30</td></tr>
 </table>

@@ -263,4 +263,5 @@ For now, It contains all the problems I have solved at
 <tr><td>236</td><td><a href=https://codeforces.com/contest/1525/problem/A>Potion-making</a></td><td>A</td><td>800</td><td>math, number theory</td><td><a href=https://codeforces.com/contest/1525/submission/116348691>GNU C++17</a></td><td>16 May 2021 14:02:19</td></tr>
 <tr><td>237</td><td><a href=https://codeforces.com/contest/1256/problem/A>Payment Without Change</a></td><td>A</td><td>1000</td><td>math</td><td><a href=https://codeforces.com/contest/1256/submission/116469597>GNU C++17</a></td><td>17 May 2021 15:09:30</td></tr>
 <tr><td>238</td><td><a href=https://codeforces.com/contest/1529/problem/A>Eshag Loves Big Arrays</a></td><td>A</td><td>800</td><td>constructive algorithms, greedy, math</td><td><a href=https://codeforces.com/contest/1529/submission/117182001>GNU C++17</a></td><td>24 May 2021 20:07:42</td></tr>
+<tr><td>239</td><td><a href=https://codeforces.com/contest/1526/problem/A>Mean Inequality</a></td><td>A</td><td>800</td><td>constructive algorithms, sortings</td><td><a href=https://codeforces.com/contest/1526/submission/117620792>GNU C++17</a></td><td>28 May 2021 20:09:47</td></tr>
 </table>

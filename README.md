@@ -267,4 +267,5 @@ For now, It contains all the problems I have solved at
 <tr><td>240</td><td><a href=https://codeforces.com/contest/1536/problem/A>Omkar and Bad Story</a></td><td>A</td><td>800</td><td>brute force, constructive algorithms</td><td><a href=https://codeforces.com/contest/1536/submission/118600490>GNU C++17</a></td><td>06 June 2021 20:15:01</td></tr>
 <tr><td>241</td><td><a href=https://codeforces.com/contest/1538/problem/A>Stone Game</a></td><td>A</td><td>800</td><td>brute force, dp, greedy</td><td><a href=https://codeforces.com/contest/1538/submission/119136670>GNU C++17</a></td><td>11 June 2021 14:30:38</td></tr>
 <tr><td>242</td><td><a href=https://codeforces.com/contest/1538/problem/B>Friends and Candies</a></td><td>B</td><td>800</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/1538/submission/119136692>GNU C++17</a></td><td>11 June 2021 14:30:51</td></tr>
+<tr><td>243</td><td><a href=https://codeforces.com/contest/1539/problem/B>Love Song</a></td><td>B</td><td>800</td><td>dp, implementation, strings</td><td><a href=https://codeforces.com/contest/1539/submission/120088421>GNU C++17</a></td><td>20 June 2021 16:25:18</td></tr>
 </table>

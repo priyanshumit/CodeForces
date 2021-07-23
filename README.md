@@ -270,4 +270,5 @@ For now, It contains all the problems I have solved at
 <tr><td>243</td><td><a href=https://codeforces.com/contest/1539/problem/B>Love Song</a></td><td>B</td><td>800</td><td>dp, implementation, strings</td><td><a href=https://codeforces.com/contest/1539/submission/120088421>GNU C++17</a></td><td>20 June 2021 16:25:18</td></tr>
 <tr><td>244</td><td><a href=https://codeforces.com/contest/1543/problem/A>Exciting Bets</a></td><td>A</td><td>900</td><td>greedy, math, number theory</td><td><a href=https://codeforces.com/contest/1543/submission/121576638>GNU C++17</a></td><td>07 July 2021 20:13:59</td></tr>
 <tr><td>245</td><td><a href=https://codeforces.com/contest/1543/problem/B>Customising the Track</a></td><td>B</td><td>900</td><td>combinatorics, greedy, math</td><td><a href=https://codeforces.com/contest/1543/submission/121584306>GNU C++17</a></td><td>07 July 2021 20:20:54</td></tr>
+<tr><td>246</td><td><a href=https://codeforces.com/contest/1551/problem/A>Polycarp and Coins</a></td><td>A</td><td>800</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/1551/submission/123480362>GNU C++17</a></td><td>23 July 2021 20:40:52</td></tr>
 </table>

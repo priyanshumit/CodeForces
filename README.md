@@ -272,4 +272,5 @@ For now, It contains all the problems I have solved at
 <tr><td>245</td><td><a href=https://codeforces.com/contest/1543/problem/B>Customising the Track</a></td><td>B</td><td>900</td><td>combinatorics, greedy, math</td><td><a href=https://codeforces.com/contest/1543/submission/121584306>GNU C++17</a></td><td>07 July 2021 20:20:54</td></tr>
 <tr><td>246</td><td><a href=https://codeforces.com/contest/1551/problem/A>Polycarp and Coins</a></td><td>A</td><td>800</td><td>greedy, math</td><td><a href=https://codeforces.com/contest/1551/submission/123480362>GNU C++17</a></td><td>23 July 2021 20:40:52</td></tr>
 <tr><td>247</td><td><a href=https://codeforces.com/contest/1551/problem/B1>Wonderful Coloring - 1</a></td><td>B1</td><td>800</td><td>greedy, strings</td><td><a href=https://codeforces.com/contest/1551/submission/123488392>GNU C++17</a></td><td>23 July 2021 20:52:53</td></tr>
+<tr><td>248</td><td><a href=https://codeforces.com/contest/1552/problem/A>Subsequence Permutation</a></td><td>A</td><td>800</td><td>sortings, strings</td><td><a href=https://codeforces.com/contest/1552/submission/123720059>GNU C++17</a></td><td>25 July 2021 20:13:10</td></tr>
 </table>

@@ -280,4 +280,5 @@ For now, It contains all the problems I have solved at
 <tr><td>253</td><td><a href=https://codeforces.com/contest/1560/problem/A>Dislike of Threes</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1560/submission/126282849>GNU C++17</a></td><td>18 August 2021 20:11:03</td></tr>
 <tr><td>254</td><td><a href=https://codeforces.com/contest/1560/problem/B>Who's Opposite?</a></td><td>B</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1560/submission/126306165>GNU C++17</a></td><td>18 August 2021 20:34:03</td></tr>
 <tr><td>255</td><td><a href=https://codeforces.com/contest/1560/problem/C>Infinity Table</a></td><td>C</td><td>800</td><td>implementation, math</td><td><a href=https://codeforces.com/contest/1560/submission/126323506>GNU C++17</a></td><td>18 August 2021 20:58:10</td></tr>
+<tr><td>256</td><td><a href=https://codeforces.com/contest/1560/problem/D>Make a Power of Two</a></td><td>D</td><td>1300</td><td>greedy, math, strings</td><td><a href=https://codeforces.com/contest/1560/submission/126353160>GNU C++17</a></td><td>18 August 2021 21:54:06</td></tr>
 </table>

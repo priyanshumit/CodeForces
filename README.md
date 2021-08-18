@@ -278,4 +278,5 @@ For now, It contains all the problems I have solved at
 <tr><td>251</td><td><a href=https://codeforces.com/contest/1559/problem/B>Mocha and Red and Blue</a></td><td>B</td><td>900</td><td>dp, greedy</td><td><a href=https://codeforces.com/contest/1559/submission/126107083>GNU C++17</a></td><td>16 August 2021 21:27:48</td></tr>
 <tr><td>252</td><td><a href=https://codeforces.com/contest/1559/problem/C>Mocha and Hiking</a></td><td>C</td><td>1200</td><td>constructive algorithms, graphs</td><td><a href=https://codeforces.com/contest/1559/submission/126110309>GNU C++17</a></td><td>16 August 2021 22:04:36</td></tr>
 <tr><td>253</td><td><a href=https://codeforces.com/contest/1560/problem/A>Dislike of Threes</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1560/submission/126282849>GNU C++17</a></td><td>18 August 2021 20:11:03</td></tr>
+<tr><td>254</td><td><a href=https://codeforces.com/contest/1560/problem/B>Who's Opposite?</a></td><td>B</td><td>800</td><td>math</td><td><a href=https://codeforces.com/contest/1560/submission/126306165>GNU C++17</a></td><td>18 August 2021 20:34:03</td></tr>
 </table>

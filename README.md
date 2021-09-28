@@ -294,4 +294,5 @@ For now, It contains all the problems I have solved at
 <tr><td>267</td><td><a href=https://codeforces.com/contest/1569/problem/A>Balanced Substring</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1569/submission/128349150>GNU C++17</a></td><td>09 September 2021 19:04:28</td></tr>
 <tr><td>268</td><td><a href=https://codeforces.com/contest/1573/problem/A>Countdown</a></td><td>A</td><td>800</td><td>greedy</td><td><a href=https://codeforces.com/contest/1573/submission/129176524>GNU C++17</a></td><td>18 September 2021 20:17:33</td></tr>
 <tr><td>269</td><td><a href=https://codeforces.com/contest/1579/problem/A>Casimir's String Solitaire</a></td><td>A</td><td>800</td><td>math, strings</td><td><a href=https://codeforces.com/contest/1579/submission/130098961>GNU C++17</a></td><td>28 September 2021 20:07:19</td></tr>
+<tr><td>270</td><td><a href=https://codeforces.com/contest/1579/problem/B>Shifting Sort</a></td><td>B</td><td>1100</td><td>implementation, sortings</td><td><a href=https://codeforces.com/contest/1579/submission/130151125>GNU C++17</a></td><td>28 September 2021 21:11:01</td></tr>
 </table>

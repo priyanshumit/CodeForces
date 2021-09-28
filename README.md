@@ -293,4 +293,5 @@ For now, It contains all the problems I have solved at
 <tr><td>266</td><td><a href=https://codeforces.com/contest/1569/problem/B>Chess Tournament</a></td><td>B</td><td>1000</td><td>constructive algorithms</td><td><a href=https://codeforces.com/contest/1569/submission/128353923>GNU C++17</a></td><td>09 September 2021 20:00:44</td></tr>
 <tr><td>267</td><td><a href=https://codeforces.com/contest/1569/problem/A>Balanced Substring</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1569/submission/128349150>GNU C++17</a></td><td>09 September 2021 19:04:28</td></tr>
 <tr><td>268</td><td><a href=https://codeforces.com/contest/1573/problem/A>Countdown</a></td><td>A</td><td>800</td><td>greedy</td><td><a href=https://codeforces.com/contest/1573/submission/129176524>GNU C++17</a></td><td>18 September 2021 20:17:33</td></tr>
+<tr><td>269</td><td><a href=https://codeforces.com/contest/1579/problem/A>Casimir's String Solitaire</a></td><td>A</td><td>800</td><td>math, strings</td><td><a href=https://codeforces.com/contest/1579/submission/130098961>GNU C++17</a></td><td>28 September 2021 20:07:19</td></tr>
 </table>

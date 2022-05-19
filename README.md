@@ -309,4 +309,5 @@ For now, It contains all the problems I have solved at
 <tr><td>282</td><td><a href=https://codeforces.com/contest/1632/problem/A>ABC</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1632/submission/144513893>GNU C++17</a></td><td>30 January 2022 20:08:01</td></tr>
 <tr><td>283</td><td><a href=https://codeforces.com/contest/1651/problem/A>Playoff</a></td><td>A</td><td>800</td><td>implementation</td><td><a href=https://codeforces.com/contest/1651/submission/149100096>GNU C++17</a></td><td>10 March 2022 20:12:06</td></tr>
 <tr><td>284</td><td><a href=https://codeforces.com/contest/1651/problem/B>Prove Him Wrong</a></td><td>B</td><td>800</td><td>constructive algorithms, greedy</td><td><a href=https://codeforces.com/contest/1651/submission/149117852>GNU C++17</a></td><td>10 March 2022 20:28:49</td></tr>
+<tr><td>285</td><td><a href=https://codeforces.com/contest/1684/problem/A>Digit Minimization</a></td><td>A</td><td>800</td><td>constructive algorithms, games, math, strings</td><td><a href=https://codeforces.com/contest/1684/submission/157671334>GNU C++17</a></td><td>19 May 2022 20:08:51</td></tr>
 </table>

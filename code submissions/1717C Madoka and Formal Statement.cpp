@@ -1,0 +1,110 @@
+#include <bits/stdc++.h>
+#define ull unsigned long long int
+#define ll long long int
+#define ld long double
+#define endl '\n'
+#define dbg(x) cout << #x << " = " << x << endl
+#define read(a, n)            \
+  for (int i = 0; i < n; i++) \
+    cin >> a[i];
+#define rmdup(vec) vec.erase(unique(vec.begin(), vec.end()), vec.end())
+#define mod 1000000007
+#define pb push_back
+#define mp make_pair
+#define sortv(a) sort(a.begin(), a.end())
+#define sortrev(a) sort(a.rbegin(), a.rend())
+#define gcd __gcd
+#define ffo find_first_of
+#define flo find_last_of
+#define lcm(a, b) ((a / gcd(a, b)) * b)
+#define max3(a, b, c) max(a, max(b, c))
+#define min3(a, b, c) min(a, min(b, c))
+#define printv(a)                    \
+  for (int i = 0; i < a.size(); i++) \
+  {                                  \
+    cout << a[i] << " ";             \
+  }                                  \
+  cout << endl
+#define YES cout << "YES"
+#define NO cout << "NO"
+#define p1(a) cout << a << endl
+#define p2(a, b) cout << a << " " << b << endl
+#define p3(a, b, c) cout << a << " " << b << " " << c << endl
+#define p4(a, b, c, d) cout << a << " " << b << " " << c << " " << d << endl
+
+using namespace std;
+
+// **************************************************************************************************************** //
+
+// **************************************************************************************************************** //
+
+int solve()
+{
+
+  ll n, k, x, ans = 0;
+  cin >> n;
+  vector<ll> a(n, 0);
+  vector<ll> b(n, 0);
+  read(a, n);
+  read(b, n);
+  if (a == b)
+  {
+    cout << "YES" << endl;
+    return 0;
+  }
+  bool flag = true;
+  int at = 1;
+  for (int i = 0; i < n; i++)
+  {
+    if (a[i] > b[i])
+    {
+      flag = false;
+      break;
+    }
+    if (at > b[i])
+    {
+      flag = false;
+      break;
+    }
+    if (a[i] == b[i])
+    {
+      at = 1;
+      continue;
+    }
+    a[i] = b[i];
+    at = a[i] - 1;
+  }
+  if (a[0] < at)
+    flag = false;
+
+  if (flag)
+    cout << "YES" << endl;
+  else
+    cout << "NO" << endl;
+
+  return 0;
+}
+
+int main()
+{
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
+  cout.tie(NULL);
+
+  // #ifndef ONLINE_JUDGE
+  //     freopen("input.txt", "r", stdin);
+  //     freopen("output.txt", "w", stdout);
+  // #endif
+
+  int t = 1;
+
+  cin >> t;
+
+  while (t--)
+  {
+    solve();
+    // cout << '\n';
+  }
+
+  return 0;
+}
